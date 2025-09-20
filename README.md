@@ -13,3 +13,5 @@ Lien du site en ligne: https://aubin-pierre7.github.io/Simple-calculatrice/
 -*JavaScript*
 
 # Captures d'ecran:
+
+| ![Vue](./Captures/Vue.png) | ![Calcul](./Captures/Calcul.png) | ![Resultat](./Captures/Resultat.png) | .

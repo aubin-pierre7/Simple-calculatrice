@@ -5,12 +5,12 @@ Elle permet d'effectuer les operations arithmetiques de base:
 
 
 # Demo en ligne:
-Lien du site en ligne: https://aubin-pierre7.github.io/Simple-calculatrice/
+Lien du site en ligne: https://aubin-pierre7.github.io/Simple-calculatrice/ .
 
 # Technologies utilisees:
--*HTML*
--*CSS*
--*JavaScript*
+-*HTML*;
+-*CSS*;
+-*JavaScript*.
 
 # Captures d'ecran:
 
